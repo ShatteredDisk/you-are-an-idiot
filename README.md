@@ -9,7 +9,7 @@ Please take caution if you are prone.
 
 # Warning
 I would reccomend closing all other tabs/saving all progress before activating the troll.
-It can easily make your browser very hard to use.
+It can easily make your browser very hard to use, and cause a LOT of lag on you computer if triggered multiple times.
 
 # Controls
 2: Disarm the troll; 4: Activate the troll
