@@ -13,4 +13,4 @@ Please take caution if you are prone.
 Controls: 2: Disarm the troll; 4: Activate the troll
 
 Note: The source was made quickly and is most likely heavily deprecated in most modern browsers.
-      On certain browsers, you way need to allow `***all***` popups for this site.
+      On certain browsers, you way need to allow `*all*` popups for this site.
